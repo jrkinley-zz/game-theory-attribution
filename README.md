@@ -1,4 +1,4 @@
-# Game Theory Model for Multichannel Marketing Attribution
+# Game Theory model for multichannel marketing attribution
 
 * https://medium.com/data-from-the-trenches/marketing-attribution-e7fa7ae9e919
 * https://recercat.cat/bitstream/handle/2072/290758/201702.pdf
