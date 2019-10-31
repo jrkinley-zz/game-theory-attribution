@@ -3,7 +3,7 @@
 * https://medium.com/data-from-the-trenches/marketing-attribution-e7fa7ae9e919
 * https://recercat.cat/bitstream/handle/2072/290758/201702.pdf
 
-The use of cooperative game theory to attribute a fair value to all channels that contribute to a sales conversion. In this context, a game is defined by a set of channels _**N**_ and a characteristic function _**v**_. Each subset of channels in _**N**_ is called a coalition _**A**_, and the characteristic function assigns a value to every coalition to signify it's overall worth. A coalition's worth represents the payoff that it can generate when its channels work together.
+The use of the _Shapley Value_ from cooperative game theory to attribute a fair value to all channels that contribute to a sales conversion. In this context, a game is defined by a set of channels _**N**_ and a characteristic function _**v**_. Each subset of channels in _**N**_ is called a coalition _**A**_, and the characteristic function assigns a value to every coalition to signify it's overall worth. A coalition's worth represents the payoff that it can generate when its channels work together.
 
 Options for defining the characteristic function include:
 * _**<sub>v</sub>(A)**_ is the conditional probability of conversion for each coalition. Estimated by fitting a predictive model on past coalition performance.
