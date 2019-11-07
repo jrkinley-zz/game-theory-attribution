@@ -1,16 +1,5 @@
 # Data-Driven Marketing Attribution
 
-## The problem with attribution
-A marketing attribution model is responsible for dividing the credit for sales conversions between channels or campaigns. CMOs use the results to measure ROI and to make more informed decisions on where to invest marketing resources in the future. The most popular models include:
-
-* **Linear**: credits an equal share of the payoff between all touchpoints
-* **Time-decay**: credits a decreasing percentage of payoff the further away in time a touchpoint is from the date of conversion
-* **Positional**: credits 40% to the first and last touches, and the remaining 20% is evenly distributed to the touches in between
-
-Choosing the best model is down to individual business needs. Each of these models has its pros and cons, but the biggest drawback they have in common is that they are rules based, and the user has to decide up front how they want the credit to be divided. These models are inflexible and unable to distinguish between the true low and high impact touchpoints, resulting in an inaccurate division on credit.
-
-Data-driven attribution is a custom solution that is able to capture the intricacies of buyer journeys by modelling how channels, and more importantly how different combinations of channels, interact with buyers to influence a desired sales outcome. A data-driven model provides the most accurate view of which channels are performing the best, driving better marketing efficiency and accountability.
-
 ## Game theory and the Shapley value
 The Shapley value is a concept taken from cooperative game theory. In a game of multiple players that can work together (form coalitions) to increase the likelihood of a desired outcome (payoff), the Shapley value provides a way to fairly divide the payoff between the players.
 
